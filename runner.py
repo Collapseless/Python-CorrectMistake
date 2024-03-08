@@ -29,7 +29,7 @@ class Nstr1:
 while 1:
     word = input('> ')
              
-    print(a(w,word))
+    print('Wrong words:',a(w,word))
     
 #end
     
