@@ -10,7 +10,7 @@ word = input('> ')
 
 from words import words as w
 
-def a(w,e):
+def a(w,e) ->str:
     for o in range(len(w)):
         for i in w:
             if i in e:
@@ -22,7 +22,7 @@ def a(w,e):
 class Nstr1:
     def __init__(self, arg):
         self.x=arg
-    def __sub__(self,other):
+    def __sub__(self,other) -> str:
         c=self.x.replace(other.x,"")
         return c
         
