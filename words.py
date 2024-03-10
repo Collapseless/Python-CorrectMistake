@@ -1,10 +1,10 @@
 
 words = [
-  #n
-  'apple','phone',
-  #v
-  'go','table','desk',
-  'bye',
+        #n
+        'apple','phone',
+        #v
+        'go','table','desk',
+        'bye',
         'goodbye',
         'good bye',
         'seeyou',
@@ -139,7 +139,7 @@ words = [
         'yours','your',
         'I',
         'what',
-  'good',
+        'good',
         'fine',
         'ok',
         'what',
