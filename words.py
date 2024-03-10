@@ -3,7 +3,7 @@ words = [
   #n
   'apple','phone',
   #v
-  'go'
+  'go','table','desk'
 ]
 
 # Thanks for watch, and welcome change this words.
